@@ -5,7 +5,7 @@ import WalletAddressChart from "./components/WalletAddressChart";
 import Insert from "./components/Insert.jsx";
 import WalletGraph from "./components/WalletGraph";
 import TransactionTable from "./components/TransactionTable"; // Ensure it's imported
-import WelcomePage from "./components/Welcome_page.jsx"; // Import the WelcomePage component
+import WelcomePage from "./components/Welcome_Page.jsx"; // Import the WelcomePage component
 import Wallet from "./components/Wallet.jsx";
 import "../src/App.css"; // Import App-wide CSS
 import AboutUs from "./components/AboutUs.jsx";
